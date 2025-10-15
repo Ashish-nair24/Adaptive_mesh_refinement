@@ -1,0 +1,1 @@
+Z=grdread2('capsule.grdnetc');
